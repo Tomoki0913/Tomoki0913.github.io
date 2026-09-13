@@ -1,0 +1,48 @@
+.character{
+    display: flex;
+    position: relative;
+    left: 10pt;
+}
+.image_clerk{
+    width: 40pt;
+    height: 40pt;
+}
+.image_customer{
+    position: relative;
+    left: 45pt;
+    width: 40pt;
+    height: 40pt;
+}
+.name1{
+    position: relative;
+    left: 10pt;
+}
+.name2{
+    position: relative;
+    left: 55pt;
+}
+.dialogue{
+    position: relative;
+    left: 10pt;
+}
+.speech{
+    display: flex;
+}
+.image{
+    width: 40pt;
+    height: 40pt;
+}
+.talk{
+    position: relative;
+    font-size: large;
+    left: 10pt;
+}
+.audio{
+    position: relative;
+    left: 50pt;
+}
+hr.line2{
+  border: none;
+  border-top: 1px dotted #000;
+  width: 98%;
+}
